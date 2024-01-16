@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hola, mi nombre es German Bermudez
+### Ingeniero de Sistemas 
+
+Soy ingeniero de sistemas profesional desde hace más de doce años.
+
 
 <!--
 **gbermudez0710/gbermudez0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
