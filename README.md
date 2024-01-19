@@ -3,10 +3,15 @@
 
 Soy ingeniero de sistemas profesional desde hace más de doce años.
 ## Tecnologías:
+
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+![Static Badge](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/PYTHON-%233776AB?style=for-the-badge&logo=PYTHON&logoColor=white&labelColor=black)
+
+
 </br>
 Y alguna más...
 <!-- Encuéntrame en:
